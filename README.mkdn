@@ -1,0 +1,26 @@
+<p align="center">
+<img src="https://github.com/ProjectPixelage/pixelage_changelog/raw/14/pixelage_banner.png" >
+</p>
+
+
+
+
+
+# Project Pixelage #
+
+
+## **Source Changelog** ##
+
+**31 August 2024**
+
+```bash
+- Added option to hide ADB and Developer options
+- Added QS Tile to change Preferred Network
+- Added QS Tile to show Compass
+- Added QS Tile to show Volume Panel
+- Added "CHARGING BOLT" symbol in statusbar for text only battery percentage while charging
+- Added Increasing ring volume feature
+- Brought back Live Translate
+- Redo Cutout force fullscreen options
+- Allow skipping of nativeDetachImage
+```

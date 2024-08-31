@@ -1,0 +1,9 @@
+## **Device Changelog** ##
+
+**miatoll (31/08/2024)**
+
+```bash
+- Increase charging temperature threshold
+- Reverted some auto brightness changes
+- Skipped nativeDetachImage
+```
