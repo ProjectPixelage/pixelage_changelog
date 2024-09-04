@@ -1,5 +1,12 @@
 ## **Device Changelog** ##
 
+**miatoll (06/09/2024)**
+
+```bash
+- Should fixed an issue that might caused charging stucked
+- Updated adreno driver to august compiled date from Oculus Quest 2 (improvement on stability)
+```
+
 **miatoll (31/08/2024)**
 
 ```bash

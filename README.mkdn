@@ -11,6 +11,14 @@
 
 ## **Source Changelog** ##
 
+**6 September 2024**
+
+```bash
+- Merged September Security Patch
+- Updated Pixel 9 FP
+- Added option to turn on Bluetooth with one tap
+```
+
 **31 August 2024**
 
 ```bash
