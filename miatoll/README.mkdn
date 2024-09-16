@@ -1,5 +1,11 @@
 ## **Device Changelog** ##
 
+**miatoll (16/09/2024)**
+
+```bash
+- Initial Android 15 release
+```
+
 **miatoll (06/09/2024)**
 
 ```bash

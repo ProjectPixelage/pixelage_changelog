@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://github.com/ProjectPixelage/pixelage_changelog/raw/14/pixelage_banner.png" >
+<img src="https://github.com/ProjectPixelage/pixelage_changelog/raw/15/pixelage_a15.png" >
 </p>
 
 
@@ -10,6 +10,13 @@
 
 
 ## **Source Changelog** ##
+
+**16 September 2024**
+
+```bash
+- Initial Android 15 release
+- Pixelage is now fully based on AOSP with small pinch of Lineage
+```
 
 **6 September 2024**
 
