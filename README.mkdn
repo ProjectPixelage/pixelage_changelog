@@ -11,6 +11,22 @@
 
 ## **Source Changelog** ##
 
+**22 September 2024**
+
+```bash
+- Added LTE_CA toggle
+- Added PIF Spoof toggle (Disable it to use with trickystore for Strong Integrity)
+- Added Long press volume rocker to skip tracks
+- Added Hide ADB and Developer settings option (Can trick certain apps that detects developer options)
+- Added Optional haptic feedback for back gesture (Users that had issue with haptics with back gesture can enable this option)
+- Added Restart SystemUI in Advanced Reboot
+- Added minor changes to expanded QS where you can press date, time, battery, carrier text will opens up the respectively section
+- Auto wipe package_cache on dirty flash (Should fix issue where users might faced weird setting overlapping texts after they done dirty flash)
+- Granted a few GApps permissions that are missing (It should decrease amount of apps screaming in background about missing permissions)
+- Silence a lot of useless background logs to improve battery life
+- Spoof Wechat as Samsung Galaxy Tab A7 Lite
+```
+
 **16 September 2024**
 
 ```bash
