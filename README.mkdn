@@ -11,6 +11,17 @@
 
 ## **Source Changelog** ##
 
+**29 September 2024**
+
+```bash
+- Added Smartspace on lockscreen
+- Added Double tap to sleep on lockscreen and status bar
+- Added more options for screen recording
+- Fixed an issue where double tap to wake from AOD doesn't wake the screen
+- Fixed "Touch to unlock anytime"
+
+```
+
 **22 September 2024**
 
 ```bash

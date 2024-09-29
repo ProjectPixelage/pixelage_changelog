@@ -1,5 +1,11 @@
 ## **Device Changelog** ##
 
+**miatoll (29/09/2024)**
+
+```bash
+- Switched to AIDL Fingerprint HAL (Lesser spamming fingerprint issue logs in the background, RIP HIDL by Google)
+```
+
 **miatoll (16/09/2024)**
 
 ```bash
