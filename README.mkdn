@@ -11,6 +11,15 @@
 
 ## **Source Changelog** ##
 
+**1 October 2024**
+
+```bash
+- Added fixes for the wrongly placed fingerprint indicator for side fingerprint devices
+- Fixed an issue where Indonesian users might failed to top up on certain apps like BCA using NFC
+- Moved "Battery Info" to battery section
+- Reduced more background unnecessary logspams
+```
+
 **29 September 2024**
 
 ```bash

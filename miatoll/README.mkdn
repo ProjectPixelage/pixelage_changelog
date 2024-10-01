@@ -1,5 +1,13 @@
 ## **Device Changelog** ##
 
+**miatoll (01/10/2024)**
+
+```bash
+- Fixed an issue where fingerprint indicator is out of the place
+- Switched to AIDL interface for Health HAL
+- Switched to AIDL interface for Sensor HAL
+```
+
 **miatoll (29/09/2024)**
 
 ```bash
