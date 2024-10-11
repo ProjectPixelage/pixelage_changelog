@@ -11,6 +11,12 @@
 
 ## **Source Changelog** ##
 
+**11 October 2024**
+
+```bash
+- Updated FP to fix Play Integrity
+```
+
 **1 October 2024**
 
 ```bash

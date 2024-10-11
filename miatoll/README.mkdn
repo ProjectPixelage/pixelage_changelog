@@ -1,5 +1,11 @@
 ## **Device Changelog** ##
 
+**miatoll (11/10/2024)**
+
+```bash
+- Disabled turbulence noise (Having the turbulence noise play causes frame drops on mid to lower-end devices)
+```
+
 **miatoll (01/10/2024)**
 
 ```bash
