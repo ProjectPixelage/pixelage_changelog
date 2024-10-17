@@ -11,6 +11,22 @@
 
 ## **Source Changelog** ##
 
+**17 October 2024**
+
+```bash
+- Merged October Security Patch
+- Added An option to upload crashing logs whenever an app crashes
+- Added Battery widget
+- Added Charging Control from LineageOS
+- Added Circle to Search and turned on by default
+- Added Circle to Search toggle in Navigation section
+- Added Pixel offline charging animation
+- Fixed DeviceAsWebcam showing inverted colours (Red->Blue) on qcom devices
+- Fixed Pixel Launcher's Overview Suggestions crashes
+- Fixed an issue where multi-user avatar picker crashes
+- Updated Pixel 9 Pro XL (komodo) FP to October
+```
+
 **11 October 2024**
 
 ```bash

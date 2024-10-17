@@ -1,5 +1,12 @@
 ## **Device Changelog** ##
 
+**miatoll (17/10/2024)**
+
+```bash
+- Switched to Lineage implementation of AIDL interface for Fingerprint HAL
+- Switched to AIDL interface for USB HAL
+```
+
 **miatoll (11/10/2024)**
 
 ```bash
