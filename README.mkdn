@@ -11,6 +11,19 @@
 
 ## **Source Changelog** ##
 
+**23 October 2024**
+
+```bash
+- Added brand new Pixelage wallpaper (white and dark themed) (credits: @proxima009)
+- Added boost gesture flings
+- Added face unlock
+- Added brightness curve (users that faced low outdoor brightness can add "persist.sys.brightness.low.gamma" in the build.prop)
+- Checkout ton of APNs from Lineage
+- Enabled R8 optimizations for system_server and SystemUI
+- Enabled A15 QPR1 new revamped setting looks
+- Fixed an issue where "Status bar icons" displaying white theme even when dark theme is applied
+```
+
 **17 October 2024**
 
 ```bash

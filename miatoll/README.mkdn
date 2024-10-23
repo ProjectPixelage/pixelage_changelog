@@ -1,5 +1,14 @@
 ## **Device Changelog** ##
 
+**miatoll (23/10/2024)**
+
+```bash
+- Added more prebuilt audio blobs
+- Dropped more unused blobs
+- Enabled ELF checks
+- Update adreno driver to v797 (Oculus Quest 2)
+```
+
 **miatoll (17/10/2024)**
 
 ```bash
