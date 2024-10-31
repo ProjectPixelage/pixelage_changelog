@@ -11,6 +11,16 @@
 
 ## **Source Changelog** ##
 
+**31 October 2024**
+
+```bash
+- Added OTA support
+- Added option to wipe /system partition on stock recovery for user build
+- Fixed stock recovery shown "unknown version"
+- Misc improvements to SystemUI
+- Set release-keys on all signing builds (Improve custom rom detection on certain apps)
+```
+
 **23 October 2024**
 
 ```bash

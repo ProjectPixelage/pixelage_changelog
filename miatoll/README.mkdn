@@ -1,5 +1,12 @@
 ## **Device Changelog** ##
 
+**miatoll (31/10/2024)**
+
+```bash
+- Fixed stock recovery shows lib_fsmgr error message
+- User build (Improve custom rom detection for certain apps)
+```
+
 **miatoll (23/10/2024)**
 
 ```bash
