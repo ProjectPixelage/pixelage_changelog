@@ -3,6 +3,14 @@
 **miatoll (31/10/2024)**
 
 ```bash
+- Included kinesis omega r6.0
+- Added improvement to wifi configs
+- Reconfigure ZRAM as per Qualcomm Android Go tuning guide
+```
+
+**miatoll (31/10/2024)**
+
+```bash
 - Fixed stock recovery shows lib_fsmgr error message
 - User build (Improve custom rom detection for certain apps)
 ```
