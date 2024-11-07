@@ -11,6 +11,22 @@
 
 ## **Source Changelog** ##
 
+**7 November 2024**
+
+```bash
+- Merged November Security Patch
+- Added Option to show VoLTE & WiFi Calling statusbar icon
+- Added Option to disable data disabled indicator
+- Added Option to change LTE to 4G indicator
+- Added Pure black theme
+- Added Clone Apps
+- Added Option to configure rotation degree (0,90,180,270)
+- Added Option to show Data Usage in QS
+- Added Lineage Screen Lock options (including scramble pin)
+- Fixed an issue where QS power menu still accessible when the phone are locked
+- Updated new screenshot sound from Nothing Phone
+```
+
 **31 October 2024**
 
 ```bash
