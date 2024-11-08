@@ -1,7 +1,13 @@
 ## **Device Changelog** ##
 
-**CODENAME (XX/11/2024)**
+**sweet (07/11/2024)**
 
 ```bash
 - Initial Release
+- Update common blobs from sweet_k6a OS1.0.10.0.THGMIXM
+- Switch to pixel power-libperfmgr
+- Fixed a rare issue where plugging in some wired headphones would cause the phone to soft reboot
+- Fixed an audio issue in certain apps (Eg: Teams, Skype, Mobile Legends)
+- Improvements to the AIDL fingerprint HAL
+- Upstreamed kernel
 ```
