@@ -1,7 +1,11 @@
 ## **Device Changelog** ##
 
-**CODENAME (XX/11/2024)**
+**garnet (09/11/2024)**
 
 ```bash
-- Initial Release
+- Initial release 
+- Update blobs to V816.0.15.0.UNRMIXM
+- Shorekeeper 5.10.228 KSU Kernel
+- Add GameSpace
+- Add Screen-off UDFPS
 ```
