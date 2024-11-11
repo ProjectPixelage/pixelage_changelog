@@ -1,5 +1,15 @@
 ## **Device Changelog** ##
 
+**miatoll (12/11/2024)**
+
+```bash
+- Added ZRAM tweaks to match with kernel memory management changes
+- Nuked latch unsignal buffers properties
+- Re-adjust brightness ramping rates 
+- Switched to AIDL Thermal HAL
+- Updated system blobs to LA.QSSI.15.0.r1-10500-qssi.0
+```
+
 **miatoll (31/10/2024)**
 
 ```bash
