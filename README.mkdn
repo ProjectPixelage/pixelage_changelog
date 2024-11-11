@@ -11,6 +11,12 @@
 
 ## **Source Changelog** ##
 
+**12 November 2024**
+
+```bash
+- Added GameSpace
+```
+
 **7 November 2024**
 
 ```bash
