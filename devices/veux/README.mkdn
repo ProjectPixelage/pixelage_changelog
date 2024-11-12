@@ -1,7 +1,9 @@
 ## **Device Changelog** ##
 
-**CODENAME (XX/11/2024)**
+veux (11/11/2024)
 
-```bash
+
 - Initial Release
-```
+- Sync With Latest Changes
+- Non-Ksu Build
+
