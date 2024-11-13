@@ -1,5 +1,13 @@
 ## **Device Changelog** ##
 
+**garnet (13/11/2024)**
+
+```bash
+- Switch to Non-KSU Kernel
+- Fix proximity sensor
+- Fix screen record in gamespace
+```
+
 **garnet (09/11/2024)**
 
 ```bash
