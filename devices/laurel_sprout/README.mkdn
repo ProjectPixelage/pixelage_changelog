@@ -1,7 +1,8 @@
-## **Device Changelog** ##
+## **Device Changelog**
 
-**CODENAME (XX/11/2024)**
+**laurel_sprout (14/11/2024)**
 
 ```bash
-- Initial Release
+- Adjusted kernel fod dimming values
+- Build talkback
 ```
