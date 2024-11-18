@@ -1,0 +1,18 @@
+## **Device Changelog** ##
+
+**marble (18/11/2024)**
+
+```bash
+- Initial Release
+- Upstream kernel
+- Updated common blobs from diting V816.0.8.0.ULFMIXM
+- Updated marble blobs from V816.0.10.0.UMRMIXM
+- Switched fingerprint, USB & thermal HALs to AIDL
+- Migrate sensor HAL to AIDL interface
+- Add v2 suffix to sensors.xiaomi
+- Move to Xiaomi IR AIDL
+- Shim WFD with libgui_shim/libinput_shim
+- Add missing displayconfig for 0b panel
+- Get rid of 32 bit blobs
+- Misc. Improvements
+```
