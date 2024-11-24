@@ -1,5 +1,12 @@
 ## **Device Changelog** ##
 
+**miatoll (24/11/2024)**
+
+```bash
+- Switched back to HIDL FP HAL (Should fixed FPC users in Private Space)
+- Added missing domains sockets for thermal-engine
+```
+
 **miatoll (12/11/2024)**
 
 ```bash

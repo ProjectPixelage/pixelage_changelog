@@ -11,6 +11,17 @@
 
 ## **Source Changelog** ##
 
+**24 November 2024**
+
+```bash
+- Added App Lock
+- Added improvement for QS expanding animations
+- Added misc improvements to HWUI
+- Updated GApps to nov (should fixed Google's backup and restore)
+- Updated PIHooks komodo FP to nov
+- Spoof as realme GT 7 Pro for few games
+```
+
 **12 November 2024**
 
 ```bash
