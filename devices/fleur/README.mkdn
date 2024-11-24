@@ -1,7 +1,22 @@
 ## **Device Changelog** ##
 
-**CODENAME (XX/11/2024)**
+**fleur (25/11/2024)**
 
 ```bash
-- Initial Release
+- Initial Official Release
+- Change from meow to mali for egl
+- Silence LMKD logspam
+- Build missing libraries 
+- Drop useless 32-bit blobs
+- Switch to OSS modules
+- Fix GPS for some models
+- Fix deep sleep
+- Move to OSS dtbo image
+- Drop useless thermal_manager
+- Configure Uclamp groups for best efficiency 
+- Boost TA on interaction
+- Fix USB Tethering
+- Upstream Kernel to 4.19.324
+- Enable checkelf
+- Implement vibrator strength control
 ```
