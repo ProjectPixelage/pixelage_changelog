@@ -11,6 +11,14 @@
 
 ## **Source Changelog** ##
 
+**9 December 2024**
+
+```bash
+- Initial Android 15 QPR1
+- December Security Patch
+- Spoof as ASUS Rog 8 for few selected games
+```
+
 **24 November 2024**
 
 ```bash

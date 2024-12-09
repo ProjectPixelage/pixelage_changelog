@@ -1,5 +1,12 @@
 ## **Device Changelog** ##
 
+**miatoll (09/12/2024)**
+
+```bash
+- Initial Android 15 QPR1 build
+- Spoofs Netflix to Xiaomi 14 Ultra
+```
+
 **miatoll (24/11/2024)**
 
 ```bash
