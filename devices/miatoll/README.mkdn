@@ -1,5 +1,11 @@
 ## **Device Changelog** ##
 
+**miatoll (14/12/2024)**
+
+```bash
+- Reverted back to Adreno v502 for stability
+```
+
 **miatoll (09/12/2024)**
 
 ```bash

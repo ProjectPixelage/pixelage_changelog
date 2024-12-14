@@ -11,6 +11,17 @@
 
 ## **Source Changelog** ##
 
+**14 December 2024**
+
+```bash
+- Added back Applock
+- Added back Faceunlock
+- Fixed an issue where notifications will overlapped with clock in lockscreen
+- Fixed an issue where AOD lockscreen will do fade transition instead of animation
+- Fixed an issue where SystemUI will crashes into Android Rescue instantly after set up "Weather Lockscreen Clock"
+- Set default lockscreen keyguard affordance "Left - Torch | Right - Camera"
+```
+
 **9 December 2024**
 
 ```bash
