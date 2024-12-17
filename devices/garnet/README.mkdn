@@ -1,5 +1,19 @@
 ## **Device Changelog** ##
 
+**garnet (17/12/2024)**
+
+```bash
+- Switch back to prebuilt kernel 5.10.198
+- Increase 5 GHz network signal tolerance
+- Build android.hardware.thermal@2.0 vendor variant from source
+- Move to android.hardware.ir-service.example
+- Set ro.netflix.bsp_rev to fix widevine
+- Fix Dolby in TWS/BT devices
+- Fix qti_power_hal
+- Do not balance msm_drm and kgsl_3d0 IRQs
+- Switch to AVC 3.1 for screen recording In weaker SOCs
+```
+
 **garnet (13/11/2024)**
 
 ```bash
