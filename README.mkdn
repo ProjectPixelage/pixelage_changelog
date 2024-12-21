@@ -11,6 +11,19 @@
 
 ## **Source Changelog** ##
 
+**21 December 2024**
+
+```bash
+- Added back Cellular and Wi-Fi QS Tiles
+- Added back hotspot toggle in Internet QS Tile
+- Added back UDFPS
+- Added back Lineage's Scramble PIN & lock pattern size
+- Added back force fullscreen cutout
+- Fixed an issue where AOD and Caffeine QS Tile will caused the tile size to be unusual huge
+- Fixed an issue where tapping into previous "screen recording saved" notification will lead to SystemUI crashes
+- Reverted back to Pre-A15 QPR1 QS Colours
+```
+
 **14 December 2024**
 
 ```bash
