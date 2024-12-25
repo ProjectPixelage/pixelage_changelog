@@ -1,5 +1,17 @@
 ## **Device Changelog** ##
 
+**sweet (25/12/2024)**
+
+```bash
+- Upstream kernel
+- Dropped miuicamera for now in favour of Aperture
+- Set 120Hz frame rate multiple threshold
+- Enable elfchecks for libgrallocutils
+- Enable elfchecks for camera libs
+- AIDL fingerprint improvements
+- Mark CNE symlink target as required package
+```
+
 **sweet (07/11/2024)**
 
 ```bash
