@@ -1,5 +1,12 @@
 ## **Device Changelog** ##
 
+**garnet (26/12/2024)**
+
+```bash
+- Sync to latest source QPR1
+- Update blobs to V816.0.17.0.UNRMIXM
+```
+
 **garnet (17/12/2024)**
 
 ```bash
