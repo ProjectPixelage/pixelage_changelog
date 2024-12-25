@@ -1,5 +1,14 @@
 ## **Device Changelog** ##
 
+**miatoll (25/12/2024)**
+
+```bash
+- Added CNE Symlinks
+- Reverted back to Adreno v797 (Improves performance on newer games)
+- Switched back to AIDL Fingerprint HAL
+- Switched to device specific thermal configs
+```
+
 **miatoll (14/12/2024)**
 
 ```bash

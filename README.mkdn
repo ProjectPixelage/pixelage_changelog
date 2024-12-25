@@ -11,6 +11,14 @@
 
 ## **Source Changelog** ##
 
+**25 December 2024**
+
+```bash
+- Added APK based PIF (Users can do PIF update in the future by updating APK instead of flashing the whole rom)
+- Added option to disable screenshot sound
+- Re-organize sound options
+```
+
 **21 December 2024**
 
 ```bash
