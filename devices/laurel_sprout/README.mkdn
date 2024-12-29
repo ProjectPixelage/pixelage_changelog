@@ -1,8 +1,0 @@
-## **Device Changelog**
-
-**laurel_sprout (14/11/2024)**
-
-```bash
-- Adjusted kernel fod dimming values
-- Build talkback
-```

@@ -1,7 +1,0 @@
-## **Device Changelog** ##
-
-**CODENAME (XX/11/2024)**
-
-```bash
-- Initial Release
-```
