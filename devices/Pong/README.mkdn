@@ -1,0 +1,8 @@
+## **Device Changelog** ##
+
+**Pong (30/12/2024)**
+
+```bash
+- Initial Official Build 
+```
+
