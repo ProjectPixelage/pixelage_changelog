@@ -1,5 +1,20 @@
 ## **Device Changelog** ##
 
+**marble (01/01/2025)**
+
+```bash
+- Upstream kernel
+- Update common blobs from diting V816.0.9.0.ULFMIXM
+- Update marble blobs, firmware and fingerprint from V816.0.12.0.UMRMIXM
+- Set frame rate multiple threshold to 120Hz
+- Move to new xiaomi touch (touch freeze should be fixed now)
+- Address missing libbinder symbols in libwfdnative
+- Bump libwfdservice to android.media.audio.common.types-V4
+- AIDL fingerprint improvements
+- Added basic call recorder
+- Misc improvements
+```
+
 **marble (18/11/2024)**
 
 ```bash
