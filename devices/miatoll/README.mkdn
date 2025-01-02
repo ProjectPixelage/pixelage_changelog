@@ -1,5 +1,12 @@
 ## **Device Changelog** ##
 
+**miatoll (02/01/2025)**
+
+```bash
+- Added back LTE_CA option
+- Tweaked left clock padding to align with launcher's smartspace
+```
+
 **miatoll (25/12/2024)**
 
 ```bash

@@ -11,6 +11,13 @@
 
 ## **Source Changelog** ##
 
+**02 January 2025**
+
+```bash
+- Fixed fullscreen cutout
+- Added misc improvements to SystemUI
+```
+
 **25 December 2024**
 
 ```bash
