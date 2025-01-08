@@ -11,6 +11,19 @@
 
 ## **Source Changelog** ##
 
+**08 January 2025**
+
+```bash
+- Merged January 2025 security patch
+- Added smart 5G toggle
+- Added options of Adguard and Cloudfare DNS to Private DNS Provider
+- Added Lineage's HTPR and Fastcharge for compatible devices
+- Disabled default frame rate limit for games by default
+- Dropped Lineage's AudioFX
+- Switched to Google Package Installer
+- Updated T-Mobile APNs from Lineage
+```
+
 **02 January 2025**
 
 ```bash
