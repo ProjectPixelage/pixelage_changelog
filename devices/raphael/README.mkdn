@@ -1,1 +1,6 @@
 ## **Device Changelog** ##
+
+**Raphael (10/01/2025)**
+```bash
+- Initial Official Build 
+```
