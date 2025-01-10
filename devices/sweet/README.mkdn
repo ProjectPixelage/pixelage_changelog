@@ -1,5 +1,17 @@
 ## **Device Changelog** ##
 
+**sweet (10/01/2025)**
+```bash
+- Upstream kernel
+- Bring back MiuiCamera
+- Bring back QCOM WFD
+- Update display flags and packages
+- Unpin libril-qc-hal-qmi.so and add missing qcriNvOpt radio dependency
+- Update WFD system blobs from dodge AP3A.240617.008
+- Added basic call recorder
+- Misc improvements
+```
+
 **sweet (25/12/2024)**
 
 ```bash
