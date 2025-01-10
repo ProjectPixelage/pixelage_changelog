@@ -1,1 +1,10 @@
 ## **Device Changelog** ##
+
+**surya (10/01/2025)**
+
+```bash
+- Initial Release
+- Dropped FRP
+- Dropped OMX Codecs
+- Misc Fixes and Optimizations
+```
