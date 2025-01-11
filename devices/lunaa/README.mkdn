@@ -1,1 +1,11 @@
 ## **Device Changelog** ##
+
+
+**Lunaa (11/01/2025)**
+
+```bash
+- Initial Relese
+- Switched to OSS Audio Hal
+- Improved als correction
+- Sync with latest los changes
+```
