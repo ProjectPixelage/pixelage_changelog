@@ -1,5 +1,15 @@
 ## **Device Changelog** ##
 
+**marble (11/01/2025)**
+
+```bash
+- Upstream kernel
+- Fixed MiuiCamera
+- Update marble blobs, firmware, fingerprint and miuicamera from V816.0.14.0.UMRMIXM
+- Add missing 32-bit libvmmem
+- Misc improvements
+```
+
 **marble (01/01/2025)**
 
 ```bash
