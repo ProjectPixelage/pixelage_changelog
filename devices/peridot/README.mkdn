@@ -1,1 +1,16 @@
 ## **Device Changelog** ##
+
+**Peridot (12/01/2025)**
+
+```bash
+- Initial Official Build 
+- Update blobs to v816.0.10.0.UNPMIXM
+- XiaomiParts : add QS title Thermal Switch
+- Fix USSD Dial SIM
+- Refactor DT2W node
+- Set restricted cpuset to the same CPUs as system-background
+- Fix record 4K
+- Fix top speaker in lockscreen
+- Fix FP
+- Add Leica camera
+```
