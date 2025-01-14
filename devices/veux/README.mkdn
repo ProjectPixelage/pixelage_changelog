@@ -1,9 +1,10 @@
 ## **Device Changelog** ##
 
-veux (11/11/2024)
+veux (14/01/2025)
 
 
-- Initial Release
+- CAM working fine
 - Sync With Latest Changes
-- Non-Ksu Build
+- Added Xiaomi Parts
+- Switch to Paimon Kernel
 
