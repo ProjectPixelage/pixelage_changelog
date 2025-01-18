@@ -1,1 +1,7 @@
 ## **Device Changelog** ##
+
+**beryllium (18/01/2025)**
+
+```bash
+- Initial Android 15 build
+```
