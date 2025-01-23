@@ -1,5 +1,12 @@
 ## **Device Changelog** ##
 
+**Pong (23/1/2025)**
+
+```bash
+- Update to NOS V3.0-250113-1723
+- Improvements to performance and system stability
+```
+
 **Pong (30/12/2024)**
 
 ```bash
