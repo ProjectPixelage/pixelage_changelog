@@ -1,5 +1,17 @@
 ## **Device Changelog** ##
 
+**miatoll (05/02/2025)**
+
+```bash
+- Improvement to auto brightness ramping rate
+- Improvement to mic on video recording
+- Fixed an issue where new notifications will caused call distortion
+- Deep_buffer will be default for audio playback
+- Minor changes to audio configs
+- Uprev Audio HAL from v6 to v7
+- Added back few audio media properties
+```
+
 **miatoll (02/01/2025)**
 
 ```bash
