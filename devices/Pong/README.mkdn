@@ -1,5 +1,12 @@
 ## **Device Changelog** ##
 
+**Pong (05/02/2025)**
+
+```bash
+- Switch to a different device tree
+- Clean flash recommended
+```
+
 **Pong (23/1/2025)**
 
 ```bash
