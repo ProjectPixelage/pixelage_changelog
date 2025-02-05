@@ -11,6 +11,19 @@
 
 ## **Source Changelog** ##
 
+**05 February 2025**
+
+```bash
+- Added option to adjust minimal auto brightness
+- Added option to cut off internet for specific apps
+- Added Livedisplay
+- Added Per-app volume
+- Added Quick Tap
+- Added Camelot (PDF Viewer by Lineage)
+- Play integrity does not required an APK anymore (It will updates automatically during reboot)
+- Whole UI revamped on Radio Info
+```
+
 **08 January 2025**
 
 ```bash
