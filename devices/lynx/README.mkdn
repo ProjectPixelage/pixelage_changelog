@@ -1,0 +1,7 @@
+## **Device Changelog** ##
+
+**lynx (06/02/2025)**
+
+```bash
+- Initial Android 15 build
+```
