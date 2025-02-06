@@ -1,5 +1,13 @@
 ## **Device Changelog** ##
 
+**surya (06/02/2025)**
+```bash
+- Partial Audio Changes For Dolby 
+- Added Viper4AndroidFX Support
+- Added QCOM WFD
+- Misc Fixes and Optimizations
+```
+
 **surya (10/01/2025)**
 
 ```bash
