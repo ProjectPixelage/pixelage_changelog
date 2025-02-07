@@ -2,5 +2,22 @@
 
 **Raphael (10/01/2025)**
 ```bash
-- Initial Official Build 
+- Included Leica camera.
+- inclueded anti-flicker.
+- inclueded display mode.
+- inclueded bcr (basic call recorder).
+- leica: Disable parallel processing by default.
+- leica: bring back universal setings and expert mode.
+- make some adjustment related to boot animation resolution.
+- Move persist.vendor.qti.telephony.vt_cam_interface to system_ext.prop.
+- rootdir: Use stop instead of setprop for console.
+- dontaudit vendor_thermal-engine capability dac_override.
+- Drop sysfs_msm_subsys rules.
+- sepolicy: allow vendor to write write to sched nodes.
+- Moved some props to system_ext.
+- resolved GNSS denial.
+- kernel: make some changes related to governor.
+- Fix an issue where the flashlight cannot be used immediately after a reboot.
+- Overhaul UClamp & Powerhint setup.
+- powerhint: Rework GPU freq boosting.
 ```
