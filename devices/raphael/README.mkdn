@@ -1,6 +1,6 @@
 ## **Device Changelog** ##
 
-**Raphael (10/01/2025)**
+**Raphael (07/02/2025)**
 ```bash
 - Included Leica camera.
 - inclueded anti-flicker.
@@ -20,4 +20,8 @@
 - Fix an issue where the flashlight cannot be used immediately after a reboot.
 - Overhaul UClamp & Powerhint setup.
 - powerhint: Rework GPU freq boosting.
+```
+**Raphael (10/01/2025)**
+```bash
+- Initial Official Build 
 ```
