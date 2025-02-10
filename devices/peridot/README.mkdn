@@ -1,5 +1,21 @@
 ## **Device Changelog** ##
 
+**Peridot (06/02/2025)**
+
+```bash
+- Update blobs to v816.0.12.0.UNPMIXM
+- Import system PowerOffAlarm blobs
+- Switch to common xiaomi vibrator service
+- XiaomiParts: Rework HTSR
+- XiaomiParts: Introduce Display Saturation Service and TileUtils
+- XiaomiParts: Introduce displayfeature color service and use MIUI color modes
+- Switch to AIDL thermal HAL
+- Initialized Spatial Audio
+- Initialized DSPVolumeSynchronizer
+- Rework Fast Charge
+- audio: Set valid and supported channel mask for earpiece
+```
+
 **Peridot (12/01/2025)**
 
 ```bash
