@@ -1,5 +1,13 @@
 ## **Device Changelog** ##
 
+**Lunaa (06/02/2025)**
+
+```bash
+- Disable game default frame rate feature
+- Switched Vol Panel Location to Left
+- Fixed Launcher flickring issue
+- Sync with latest los changes
+```
 
 **Lunaa (11/01/2025)**
 
