@@ -1,5 +1,16 @@
 ## **Device Changelog** ##
 
+**lancelot (11/02/2025)**
+
+```bash
+- Disable unnecessary alpha transformations in animations
+- Disable ART debug
+- Apply dex2oat optimizations
+- Downscale task snapshots to 70% 
+- Remove leftover VP9 mediatek OMX reference
+- Defer auto brightness light sensor reading for 1s after screen on
+```
+
 **lancelot (09/01/2025)**
 
 ```bash
