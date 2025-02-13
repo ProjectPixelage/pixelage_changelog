@@ -11,6 +11,16 @@
 
 ## **Source Changelog** ##
 
+**13 February 2025**
+
+```bash
+- Addressed an issue where memory leaks might occured when users open up network dashboard in Settings
+- Added LMODroid Freeform
+- Added Flashlight strength level on supported devices
+- Added Richtap vibrations on supported devices
+- Brought back option to disable backpressure propagation
+```
+
 **05 February 2025**
 
 ```bash
