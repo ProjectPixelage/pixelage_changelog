@@ -1,5 +1,15 @@
 ## **Device Changelog** ##
 
+**miatoll (13/02/2025)**
+
+```bash
+- Rebased whole trees onto Lineage 22.1 and had major cleanup
+- Added minor tuning to powerhint
+- Added av1 software decoder and encoder entries
+- Switched to OSS Audio
+- Upgraded adreno driver to v805 from v797
+```
+
 **miatoll (05/02/2025)**
 
 ```bash
