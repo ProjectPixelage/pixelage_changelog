@@ -1,5 +1,18 @@
 ## **Device Changelog** ##
 
+**sweet (15/02/2025)**
+```bash
+- Upstream kernel
+- Audio: remove direct flag for VOIP RX
+- Media: Import Codec2 configs
+- Disable OMX service
+- Uprev audio HAL to V7
+- Update public.libraries.txt
+- Update dolby atmos stack from Oplus
+- Add support for livedisplay
+- Add support to control flashlight strength
+```
+
 **sweet (10/01/2025)**
 ```bash
 - Upstream kernel
