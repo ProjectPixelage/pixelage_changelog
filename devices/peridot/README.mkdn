@@ -1,5 +1,13 @@
 ## **Device Changelog** ##
 
+**Peridot (16/02/2025)**
+
+```bash
+- Sync to latest source
+- Apply dex2oat optimizations
+- Silence some spammy logging
+```
+
 **Peridot (06/02/2025)**
 
 ```bash
