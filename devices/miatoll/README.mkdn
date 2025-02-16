@@ -1,5 +1,12 @@
 ## **Device Changelog** ##
 
+**miatoll (16/02/2025)**
+
+```bash
+- Fixed an issue where calling using VOIP apps failed to work properly
+- Fixed an issue where mic are too sensitive causing echo
+```
+
 **miatoll (13/02/2025)**
 
 ```bash
