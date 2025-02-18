@@ -1,5 +1,12 @@
 ## **Device Changelog** ##
 
+**miatoll (18/02/2025)**
+
+```bash
+- Switched back to prebuilt audio
+- Reduced swappiness to 60 (Should improve memory management in heavy apps)
+```
+
 **miatoll (16/02/2025)**
 
 ```bash
