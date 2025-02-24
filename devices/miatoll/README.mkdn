@@ -1,5 +1,15 @@
 ## **Device Changelog** ##
 
+**miatoll (24/02/2025)**
+
+```bash
+- Fixed an issue where LiveDisplay's Picture Adjustment no visual changes
+- Added IPSEC Tunnel Migration feature
+- Bump manifest level from 5 to 6
+- Upgrade soundtrigger HAL from v2.2 to v2.3
+- Upgrade tetheroffload control HAL from v1.0 to v1.1
+```
+
 **miatoll (18/02/2025)**
 
 ```bash
