@@ -1,5 +1,22 @@
 ## **Device Changelog** ##
 
+**marble (01/03/2025)**
+
+```bash
+- Upstream kernel
+- Update common blobs from diting V816.0.10.0.ULFMIXM
+- Update and Cleanup overlays
+- Update display, GPS and QCC blobs from ingot UKQ1.240227.165
+- Build and configure xiaomi touch hal for high touch sampling rate
+- Remove duplicate snxxx AIDL rules
+- Switch to common QCOM AIDL bootctrl HAL
+- Implement torch strength control
+- Import missing camera libs for noise reduction
+- Add migration to turn off persist.vendor.radio.poweron_opt
+- Cleanup rootdir scripts
+- Misc improvements
+```
+
 **marble (11/01/2025)**
 
 ```bash
