@@ -1,5 +1,28 @@
 ## **Device Changelog** ##
 
+**sweet (22/04/2025)**
+```bash
+- Upstream kernel
+- Update common blobs from sweet k6a OS1.0.15.0.THGMIXM
+- Import ril stack from mojito V14.0.8.0.SKGMIXM
+- Enable ELF checks for libwpa_client dependent libs
+- Update tetheroffload: Version 1.1
+- Decrease swappiness to 60
+- rro_overlays: WifiOverlay: Move to vendor
+- sepolicy: Address/Silence some denials
+- Set ro.boot.hardware.revision property
+- Migrate to QTI USB Gadget AIDL HAL
+- Switch to common QTI USB init scripts
+- Build QTI Thermal AIDL HAL
+- Add libwfdservice_shim for WFD
+- Drop TARGET_DISABLED_UBWC
+- Add support for Device as Webcam
+- Bump manifest target-level to 6
+- Cap max brightness for flashlight strength
+- Add feature flag for IPSEC_TUNNEL_MIGRATION
+- Misc improvements
+```
+
 **sweet (15/02/2025)**
 ```bash
 - Upstream kernel
