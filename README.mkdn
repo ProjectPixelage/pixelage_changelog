@@ -11,6 +11,14 @@
 
 ## **Source Changelog** ##
 
+**22 April 2025**
+
+```bash
+- Merged March and April security patches
+- Added Power Off Alarm service
+- Misc improvements
+```
+
 **13 February 2025**
 
 ```bash
