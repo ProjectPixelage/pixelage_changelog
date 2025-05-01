@@ -1,5 +1,18 @@
 ## **Device Changelog** ##
 
+**Peridot (01/05/2025)**
+
+```bash
+- Update blobs to OS2.0.102.0.VNPMIXM
+- Enable control charging
+- init: adjust thread count and cpuset after setup wizard
+- init: Manually place msm_drm and msm_kgsl_3d0 IRQs
+- init: Enable uclamp latency_sensitive for top-app
+- XiaomiParts: Add Gamebar v4
+- XiaomiParts: Add Turbo Charging
+- Fix USSD dial in SIM 2
+```
+
 **Peridot (16/02/2025)**
 
 ```bash
