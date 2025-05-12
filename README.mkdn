@@ -11,6 +11,16 @@
 
 ## **Source Changelog** ##
 
+**12 May 2025**
+
+```bash
+- Merged May security patches
+- Improvements to Lineage heatlh hal
+- Introduce three-target ringer mode tile
+- Improvements to GameSpace and Freeform
+- Misc improvements
+```
+
 **22 April 2025**
 
 ```bash
