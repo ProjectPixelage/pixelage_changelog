@@ -1,5 +1,19 @@
 ## **Device Changelog** ##
 
+**sweet (12/05/2025)**
+```bash
+- Upstream kernel
+- Remove OMX stack and migrate fully to C2 components
+- Update Dolby Atmos and C2 media stack
+- Enable userfaultfd garbage collection (UFFD GC)
+- Resolve some more SELinux denials
+- Improvements to DeviceAsWebcam
+- Switched to NCM usb tethering
+- gps: Avoid access of deprecated LocUnorderedSetMap entry
+- Enabled charging in recovery mode
+- Misc improvements
+```
+
 **sweet (22/04/2025)**
 ```bash
 - Upstream kernel
