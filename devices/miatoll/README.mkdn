@@ -1,5 +1,12 @@
 ## **Device Changelog** ##
 
+**miatoll (14/05/2025)**
+
+```bash
+- Upgraded adreno driver to v819
+- A lot of changes from february to may 2025 (Visit here https://github.com/clarencekopitiam/device_xiaomi_miatoll/commits/15/)
+```
+
 **miatoll (24/02/2025)**
 
 ```bash
