@@ -1,5 +1,21 @@
 ## **Device Changelog** ##
 
+**Raphael (14/05/2025)**
+```bash
+- Implemented torch light control.
+- inclueded latest version of bcr.
+- upgraded tetheroffload.
+- Hopefully fixed reboot issue for 6gb ram variants. 
+- Add feature flag for IPSEC_TUNNEL_MIGRATION
+- CameraProvider: set saner values.
+- Removed max ZRAM compression streams setting.
+- Removed unneeded NFC packages.
+- some sepolicy related changes.
+- kernel: inclueded latest soviet changes.
+- kernel: added support for kernelsu-next 1.0.6.
+- removed unused blobs.
+- switch to aosp clang.
+```
 **Raphael (07/02/2025)**
 ```bash
 - Included Leica camera.
