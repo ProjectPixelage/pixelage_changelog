@@ -1,5 +1,28 @@
 ## **Device Changelog** ##
 
+**marble (18/05/2025)**
+
+```bash
+- Upstream kernel
+- Update common blobs from cupid OS2.0.1.0.VLCMIXM
+- Update marble blobs and firmware from OS2.0.4.0.VMRMIXM
+- Switch to oss audio hal
+- Fixed goodix fingerprint
+- Enable ELF checks for libwpa_client dependent libs
+- Add libwfdservice_shim for WFD
+- Build QtiTelephonyCompat
+- Remove unnecessary display board flags
+- Update display ids after display-drivers change
+- Move displayconfig to vendor
+- Drop unused xiaomi mdss display config
+- light: Switch to shared_ptr to avoid memory leaks
+- Commonize several auto brightness configs
+- Move vibrator effect stream config to select
+- Patch camera libs to load libprocessgroup_shim
+- Drop dolby atmos for now
+- Misc improvements
+```
+
 **marble (01/03/2025)**
 
 ```bash
