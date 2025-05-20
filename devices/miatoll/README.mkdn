@@ -1,5 +1,13 @@
 ## **Device Changelog** ##
 
+**miatoll (20/05/2025)**
+
+```bash
+- Inherit Android GO configurations for dexopt boot image
+- Misc changes related to audio rootdir init script
+- Enabled UFFD as default in kinesis v7.0
+```
+
 **miatoll (14/05/2025)**
 
 ```bash

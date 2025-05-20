@@ -11,6 +11,13 @@
 
 ## **Source Changelog** ##
 
+**20 May 2025**
+
+```bash
+- Added misc improvements to SystemUI
+- Added option to hide navigation bar
+```
+
 **12 May 2025**
 
 ```bash
