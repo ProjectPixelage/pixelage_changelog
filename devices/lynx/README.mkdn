@@ -1,5 +1,12 @@
 ## **Device Changelog** ##
 
+**lynx (20/05/2025)**
+```bash
+- Synced with latest source changes
+- Enabled charge limit mode in charging control
+- Misc improvements
+```
+
 **lynx (06/02/2025)**
 
 ```bash
